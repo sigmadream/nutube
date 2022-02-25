@@ -1,0 +1,5 @@
+# nutube
+
+## requirements
+- nodejs
+- mongodb
